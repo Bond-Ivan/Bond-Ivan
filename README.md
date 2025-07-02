@@ -15,7 +15,7 @@ Currently, I’m focusing on:
 
 📬 Feel free to reach out:  
  • Email: bond.code@yandex.ru  
- • Telegram: [@yourusername](https://t.me/bondivan1) <!-- Replace with your actual handle -->
+ • Telegram: [@bondivan1](https://t.me/bondivan1) <!-- Replace with your actual handle -->
 
 Open to collaboration, freelance projects, or just a good tech conversation!
 
@@ -74,7 +74,6 @@ Open to collaboration, freelance projects, or just a good tech conversation!
 <p align="left">
   <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Learning-Next.js-black?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/Frontend-Focused-blue?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
