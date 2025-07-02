@@ -15,7 +15,7 @@ Currently, I’m focusing on:
 
 📬 Feel free to reach out:  
  • Email: bond.code@yandex.ru  
- • Telegram: [@yourusername](https://t.me/yourusername) <!-- Replace with your actual handle -->
+ • Telegram: [@yourusername](https://t.me/bondivan1) <!-- Replace with your actual handle -->
 
 Open to collaboration, freelance projects, or just a good tech conversation!
 
@@ -61,8 +61,8 @@ Open to collaboration, freelance projects, or just a good tech conversation!
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react" alt="Top Langs" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bond-Ivan&show_icons=true&theme=react" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bond-Ivan&layout=compact&theme=react" alt="Top Langs" height="170"/>
 </p>
 
 <!-- Replace your-username with your actual GitHub username -->
