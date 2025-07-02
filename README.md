@@ -76,12 +76,3 @@ Open to collaboration, freelance projects, or just a good tech conversation!
   <img src="https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Frontend-Focused-blue?style=for-the-badge&logo=visualstudiocode" />
 </p>
-
----
-
-### ✍️ Signature
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.
-com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&width=435&lines=Hi%2C+I'm+Ivan+Bondarenko;Frontend+Developer;React+%7C+JavaScript+%7C+UI+UX;Let's+build+something+cool+🚀" alt="Typing SVG" />
-</p>
