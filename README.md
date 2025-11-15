@@ -25,7 +25,8 @@ Open to collaboration, freelance projects, or just a good tech conversation!
 
 🔹 Languages & Core  
  • HTML5, CSS3, SASS/SCSS — responsive layouts, semantics, accessibility  
- • JavaScript (ES6+) — clean code, modern approaches  
+ • JavaScript (ES6+) — clean code, modern approaches
+ • TypeScript — clean code, modern approaches 
  • SQL — basic experience with MySQL and Oracle
 
 🔹 Frameworks & Libraries  
