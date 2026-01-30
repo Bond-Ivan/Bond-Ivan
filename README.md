@@ -2,7 +2,7 @@
 
 🙋‍♂️ About Me
 
-Hi! My name is Ivan Bondarenko, and I’m a frontend developer passionate about building clean, intuitive, and user-friendly interfaces. I care deeply about both user experience and code quality — creating fast, accessible, and maintainable applications is my daily goal.
+Hi! My name is Ivan Bondarenko, and I’m a frontend developer passionate about building clean, intuitive, and user-friendly interfaces. I care deeply about both user experience and code quality - creating fast, accessible, and maintainable applications is my daily goal.
 
 My core stack includes JavaScript, React, and HTML/CSS, but I’m always exploring new tools and techniques. I enjoy diving into the details of UI/UX, staying up-to-date with modern web trends, and applying best practices to real-world projects.
 
@@ -24,8 +24,8 @@ Open to collaboration, freelance projects, or just a good tech conversation!
 🛠 Languages & Technologies
 
 🔹 Languages & Core  
- • HTML5, CSS3, SASS/SCSS — responsive layouts, semantics, accessibility  
- • JavaScript (ES6+) — clean code, modern approaches
+ • HTML5, CSS3, SASS/SCSS - responsive layouts, semantics, accessibility  
+ • JavaScript (ES6+) - clean code, modern approaches
  • TypeScript — clean code, modern approaches 
  • SQL — basic experience with MySQL and Oracle
 
@@ -38,7 +38,7 @@ Open to collaboration, freelance projects, or just a good tech conversation!
  • Gulp — task automation
 
 🔹 Design & Prototyping  
- • Figma — working with designers, adapting layouts for development
+ • Figma - working with designers, adapting layouts for development
 
 ---
 
