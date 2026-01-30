@@ -15,7 +15,7 @@ Currently, I’m focusing on:
 
 📬 Feel free to reach out:  
  • Email: bond.code@yandex.ru  
- • Telegram: [@bondivan1](https://t.me/frontendeeer) <!-- Replace with your actual handle -->
+ • Telegram: [@frontendeeer](https://t.me/frontendeeer) <!-- Replace with your actual handle -->
 
 Open to collaboration, freelance projects, or just a good tech conversation!
 
